@@ -1,1 +1,1 @@
-# T5Finetuning_yelp_amazon
+# Finetuning of T5 on yelp-polarity and amazon-polarity
